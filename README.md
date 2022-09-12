@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 - 👋 Hi, I’m Supratim Majumder @Supratim30
 - 👀 I’m interested in web development and blockchain technology.
 - 🌱 I’m currently learning about mining crypto currencies and implementing blockchain in real world problems.

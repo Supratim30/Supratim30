@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **supratimmajumder30@gmail.com**
 
-- 📄 Know about my experiences [Supratim_FTE_SEPT'22](Supratim_FTE_SEPT'22)
+- 📄 Know about my experiences [SUPRATIM_RESUME](https://drive.google.com/file/d/1QRMVpGVg8Jr7gmb17o1-2O9F4PZMoanF/view?usp=sharing)
 
 - ⚡ Fun fact **I don't have a CS degree.**
 

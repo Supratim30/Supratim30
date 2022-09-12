@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Supratim30/Supratim30/readme_header.png "Header")](https://github.com/Supratim30/Supratim30/blob/main/readme_header.png)
+[![Header](https://raw.githubusercontent.com/Supratim30/Supratim30/Supratim30/readme_header.png "Header")](https://github.com/Supratim30/Supratim30/blob/main/readme_header.png)
 
 - 👋 Hi, I’m Supratim Majumder @Supratim30
 - 👀 I’m interested in web development and blockchain technology.

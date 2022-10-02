@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supratim30" alt="supratim30" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/__s__tim" target="blank"><img src="https://img.shields.io/twitter/follow/__s__tim?logo=twitter&style=for-the-badge" alt="__s__tim" /></a> </p>
+<p align="left"> <a href="https://twitter.com/__s__tim" target="blank"><img src="https://img.shields.io/twitter/follow/supratim_js?logo=twitter&style=for-the-badge" alt="__s__tim" /></a> </p>
 
 - 🌱 I’m currently exploring **Web3**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/__s__tim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__s__tim" height="30" width="40" /></a>
+<a href="https://twitter.com/supratim_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__s__tim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/supratim-majumder-53942a143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supratim-majumder-53942a143/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@supratim.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@supratim.hashnode.dev" height="30" width="40" /></a>
 <a href="https://medium.com/@supratimmajumder30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@supratimmajumder30" height="30" width="40" /></a>
